@@ -9,13 +9,16 @@ This project uses convolutional neural networks(CNN) to classify cervix images i
 ### Loss and Accuracy of four CNN models:
 ------------
 
-<div class="row">
-  <div class="column">
-    <img src="./figures/CNN1_model_accuray.png" align="left" width = "50%">
-  </div>
-  <div class="column">
-    <img src="./figures/CNN1_model_loss.png" align="left" width = "50%" >
-  </div>
-</div>
+<p float="left">
+  <img src="./figures/CNN1_model_accuray.png" align="left" width = "30%">
+  <img src="./figures/CNN1_model_loss.png" align="left" width = "30%">
+  <img src="./figures/CNN2_model_accuray.png" align="left" width = "30%">
+  <img src="./figures/CNN2_model_loss.png" align="left" width = "30%">
+  <img src="./figures/CNN3_model_accuray.png" align="left" width = "30%">
+  <img src="./figures/CNN3_model_loss.png" align="left" width = "30%"> 
+  <img src="./figures/CNN4_model_accuray.png" align="left" width = "30%">
+  <img src="./figures/CNN4_model_loss.png" align="left" width = "30%">
+</p>
+
 
 
