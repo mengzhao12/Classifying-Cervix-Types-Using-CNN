@@ -6,6 +6,13 @@ This project uses convolutional neural networks(CNN) to classify cervix images i
 
 ## Selective Key Results
 
+### architecture of CNN models:
+------------
+
+<p float="left">
+  <img src="./figures/architecture_of_CNN.png" align="left" width = "80%">
+</p>
+
 ### Loss and Accuracy of four CNN models:
 ------------
 
