@@ -27,5 +27,8 @@ This project uses convolutional neural networks(CNN) to classify cervix images i
   <img src="./figures/CNN4_batch32_w_img_seg_model_loss.png" align="left" width = "40%">
 </p>
 
-
+### Further Directions:
+------------
+1. Visualize the image heterogeneity using  t-SNE algorithms
+2. Apply transfer learning technique using a pre-trained ResNet50 model
 
