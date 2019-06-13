@@ -17,14 +17,14 @@ This project uses convolutional neural networks(CNN) to classify cervix images i
 ------------
 
 <p float="left">
-  <img src="./figures/CNN1_model_accuray.png" align="left" width = "40%">
-  <img src="./figures/CNN1_model_loss.png" align="left" width = "40%">
-  <img src="./figures/CNN2_model_accuray.png" align="left" width = "40%">
-  <img src="./figures/CNN2_model_loss.png" align="left" width = "40%">
-  <img src="./figures/CNN3_batch32_model_accuray.png" align="left" width = "40%">
-  <img src="./figures/CNN3_batch32_model_loss.png" align="left" width = "40%"> 
-  <img src="./figures/CNN4_batch32_w_img_seg_model_accuray.png" align="left" width = "40%">
-  <img src="./figures/CNN4_batch32_w_img_seg_model_loss.png" align="left" width = "40%">
+  <img src="./figures/CNN1_model_accuray.png" align="left" width = "45%">
+  <img src="./figures/CNN1_model_loss.png" align="left" width = "45%">
+  <img src="./figures/CNN2_model_accuray.png" align="left" width = "45%">
+  <img src="./figures/CNN2_model_loss.png" align="left" width = "45%">
+  <img src="./figures/CNN3_batch32_model_accuray.png" align="left" width = "45%">
+  <img src="./figures/CNN3_batch32_model_loss.png" align="left" width = "45%"> 
+  <img src="./figures/CNN4_batch32_w_img_seg_model_accuray.png" align="left" width = "45%">
+  <img src="./figures/CNN4_batch32_w_img_seg_model_loss.png" align="left" width = "45%">
 </p>
 
 ### Further Directions:
